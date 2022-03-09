@@ -8,6 +8,4 @@ My Name is Abdulelah AlJabri, 23 y.o, I'm from 🇸🇦
 
 - ⚡ I'm very excited to create open-source projects
 
-- 💕 I'm currently fall in love with VueJS and Typescript
-
-- 💬 Ask me about anything, I will help you as best as I can.
+- 💕 I'm currently fall in love with PHP and React
