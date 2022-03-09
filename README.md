@@ -4,7 +4,7 @@ My Name is Abdulelah AlJabri, 23 y.o, I'm from 🇸🇦
 
 <!-- - 🔭 I’m currently working on . -->
 
-- 🌱 I’m currently learning **Vue JS**.
+- 🌱 I’m currently learning **React**.
 
 - ⚡ I'm very excited to create open-source projects
 
