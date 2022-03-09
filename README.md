@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Abdulelah AlJabri, 23 y.o, I'm from 🇸🇦 Flag: Saudi Arabia
+My Name is Abdulelah AlJabri, 23 y.o, I'm from 🇸🇦
 
 <!-- - 🔭 I’m currently working on . -->
 
