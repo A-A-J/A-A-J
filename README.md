@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Abdulelah AlJabri, 23 y.o, I'm from 🇸🇦
+My Name is Abdulelah, 23 y.o, I'm from 🇸🇦
 
 <!-- - 🔭 I’m currently working on . -->
 
