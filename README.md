@@ -17,6 +17,6 @@
 * 📞 Discord: coffee#9708
 *
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=A-A-J&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="soufiane64" /></p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=A-A-J&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="A-A-J" /></p>
 
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-A-J&layout=compact&theme=onedark&hide_border=true" alt="soufiane-64" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-A-J&layout=compact&theme=onedark&hide_border=true" alt="A-A-J" /></p>
