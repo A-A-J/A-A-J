@@ -1,13 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Abdulelah 👋
 
-My Name is Abdulelah, 23 y.o, I'm from 🇸🇦
+* 🌍 I'm live in Saudi Arabia 💚, Mecca 🕋
 
-<!-- - 🔭 I’m currently working on . -->
+* 🧠  I'm learning everything 🤣
 
-- 🌱 I’m currently learning **PHP**.
+* ⚡ Addicted to coffee ☕
 
-- ⚡ I'm very excited to create open-source projects
+* ⚡ I'm very excited to create open-source projects 💻
 
-- 💕 I'm currently fall in love with PHP
+* 🌱 I'm currently learning **React.js** 🧁
 
-- 📞 Discord: aaj#6898
+* 💕 I'm currently fall in love with JavaScript 💘
+
+* 🌟 I have enough experience in css & html & php & mysql & JavaScript & React & Lua & Sass
+
+* 📞 Discord: coffee#9708
