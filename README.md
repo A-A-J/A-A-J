@@ -14,7 +14,7 @@
 
 * 🌟 I have enough experience in css & html & php & mysql & JavaScript & React & Lua & Sass
 
-* 📞 Discord: coffee#9708
+* 📞 Discord: [click](https://discord.com/users/927741280946094131)
 *
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=A-A-J&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="A-A-J" /></p>
